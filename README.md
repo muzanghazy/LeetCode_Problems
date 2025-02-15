@@ -30,9 +30,3 @@
 - [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/?envType=study-plan-v2&envId=top-interview-150)
 - [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv?envType=study-plan-v2&envId=top-interview-150)
 - [221. Maximal Square](https://leetcode.com/problems/maximal-square?envType=study-plan-v2&envId=top-interview-150)
-
-<style>
-    ul{
-        padding-left:20px
-    }
-</style>

@@ -1,5 +1,13 @@
 # Top Interview 150
 
+### Array / String:
+
+- [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150)
+- [27. Remove Element](https://leetcode.com/problems/remove-element/?envType=study-plan-v2&envId=top-interview-150)
+- [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/?envType=study-plan-v2&envId=top-interview-150)
+- [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/?envType=study-plan-v2&envId=top-interview-150)
+- [169. Majority Element](https://leetcode.com/problems/majority-element?envType=study-plan-v2&envId=top-interview-150)
+
 ### Math:
 
 - [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/?envType=study-plan-v2&envId=top-interview-150)
@@ -28,9 +36,3 @@
 - [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/?envType=study-plan-v2&envId=top-interview-150)
 - [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv?envType=study-plan-v2&envId=top-interview-150)
 - [221. Maximal Square](https://leetcode.com/problems/maximal-square?envType=study-plan-v2&envId=top-interview-150)
-
-<style>
-    ul{
-        padding-left:20px
-    }
-</style>
