@@ -1,8 +1,6 @@
-# LeetCode Problems
+# Top Interview 150
 
-## Top Interview 150
-
-#### Math:
+### Math:
 
 - [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/?envType=study-plan-v2&envId=top-interview-150)
 - [66. Plus One](https://leetcode.com/problems/plus-one/description/?envType=study-plan-v2&envId=top-interview-150)
@@ -11,7 +9,7 @@
 - [50. Pow(x,n)](https://leetcode.com/problems/powx-n/?envType=study-plan-v2&envId=top-interview-150)
 - [149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/?envType=study-plan-v2&envId=top-interview-150)
 
-#### 1D DP:
+### 1D DP:
 
 - [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/?envType=study-plan-v2&envId=top-interview-150)
 - [198. House Robber](https://leetcode.com/problems/house-robber?envType=study-plan-v2&envId=top-interview-150)
@@ -19,7 +17,7 @@
 - [322. Coin Change](https://leetcode.com/problems/coin-change?envType=study-plan-v2&envId=top-interview-150)
 - [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence?envType=study-plan-v2&envId=top-interview-150)
 
-#### Multidimensional DP:
+### Multidimensional DP:
 
 - [120. Triangle](https://leetcode.com/problems/triangle/?envType=study-plan-v2&envId=top-interview-150)
 - [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/?envType=study-plan-v2&envId=top-interview-150)
